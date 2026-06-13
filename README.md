@@ -1,1 +1,1 @@
-Trying to learn python physics simulations and kinematics
+For documentation and collation.
