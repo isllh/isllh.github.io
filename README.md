@@ -1,2 +1,1 @@
-# Isla Hao - Portfolio 
-For documentation and collation.
+Trying to learn python physics simulations and kinematics
